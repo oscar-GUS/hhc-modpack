@@ -286,11 +286,6 @@ hash = "2abae12c29aeaec8496c74d2e6d5b69710cff2e61181f5b7c72770f54c098e79"
 preserve = true
 
 [[files]]
-file = "config/shouldersurfing-client.toml"
-hash = "639547342a19f4755890789dd8270f6b330fa997092d31e9750c4899cb191715"
-preserve = true
-
-[[files]]
 file = "config/skyboxify.json"
 hash = "02036865bd357b4867f1788d9f735a05e56e1ed4e39d349007f1112969141c0a"
 preserve = true
@@ -366,11 +361,6 @@ hash = "10336e84d62109fd7257d09d47efd40136d6a74a3b099311399d12b404a01980"
 metafile = true
 
 [[files]]
-file = "mods/fabric-carpet-1-21-4-1-4-161-v241203.pw.toml"
-hash = "28f46ad487bccaa53b48fa927d54131009ab263e2f4d6a90abd231604b24462c"
-metafile = true
-
-[[files]]
 file = "mods/fancymenu-fabric-3-7-1-mc-1-21-4.pw.toml"
 hash = "e798036ecc98f2a9568f4a90a244020d2b6c2be3286755bc31f82fe970277232"
 metafile = true
@@ -409,16 +399,6 @@ hash = "ee382f4ef92676e6641a65bc43e2781f3f6ec894b9ec7dc0e6eed965e4c35d5f"
 metafile = true
 
 [[files]]
-file = "mods/litematica-fabric-1-21-4-0-21-7.pw.toml"
-hash = "5c34bde5106fe3056067f534eddd52560aa71c887765ee1bc46e24f89cf06590"
-metafile = true
-
-[[files]]
-file = "mods/malilib-fabric-1-21-4-0-23-5.pw.toml"
-hash = "1b9eda1a2659ae0e4abcaadaac834915ffe5f1892d644101cc069b589065324b"
-metafile = true
-
-[[files]]
 file = "mods/melody-fabric-1-0-10-mc-1-21.pw.toml"
 hash = "67ca80f271ebaf398911b3e9958de7475e924685bfd378030462e335d3ab8494"
 metafile = true
@@ -452,11 +432,6 @@ hash = "1f9cfea7621ca6f99a307db34bc2e88ba85ead7085734dbbaea4b3ed0c93df2e"
 metafile = true
 
 [[files]]
-file = "mods/shouldersurfing-fabric-1-21-4-4-12-0.pw.toml"
-hash = "3989e61a551779ed3efad147d06e6d86941377a77da2c474ed1ff94a5752a234"
-metafile = true
-
-[[files]]
 file = "mods/skyboxify-3-2-1-21-4-fabric.pw.toml"
 hash = "abef19db4366fe2dd937c5ad13a54e45fec64fa735547daac5fb85bf22beb150"
 metafile = true
@@ -474,11 +449,6 @@ metafile = true
 [[files]]
 file = "mods/voicechat-fabric-1-21-4-2-6-21.pw.toml"
 hash = "403ea98dcfc766302e52f329873963efd2cfe84cbf0bef90ccf04398b725a24b"
-metafile = true
-
-[[files]]
-file = "mods/worldedit-mod-7-3-11.pw.toml"
-hash = "f825878d3b17e988dd1688768543138a640ac0a1fd5ceabf543e686bca35b230"
 metafile = true
 
 [[files]]
