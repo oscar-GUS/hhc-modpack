@@ -1,0 +1,8 @@
+type = user_variables
+
+variable {
+  name = hhc_ceremonia
+  value = no
+  reset_on_launch = true
+}
+

@@ -1,0 +1,13 @@
+name = "fancymenu_fabric_3.7.1_MC_1.21.4"
+filename = "fancymenu_fabric_3.7.1_MC_1.21.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Wq5SjeWM/versions/rRtRRSD0/fancymenu_fabric_3.7.1_MC_1.21.4.jar"
+hash-format = "sha512"
+hash = "3f546c35a257ecc98bcf0be5b16277dc718c580445d2681096fb98bf60fae9f4ece266fe843753ff57f25c5fc18eb60b111a07771c827c93fa3b7b007a9721c8"
+
+[update]
+[update.modrinth]
+mod-id = "Wq5SjeWM"
+version = "rRtRRSD0"

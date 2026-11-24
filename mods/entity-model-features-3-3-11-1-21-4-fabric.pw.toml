@@ -1,0 +1,13 @@
+name = "entity_model_features-3.3.11-1.21.4-fabric"
+filename = "entity_model_features-3.3.11-1.21.4-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/lcVTU0jz/entity_model_features-3.3.11-1.21.4-fabric.jar"
+hash-format = "sha512"
+hash = "7fcc69eda70cbe0e28d7ff72ce295cc04c539b6b7618eeda56a4d05a1428903048fb0dc4e23d840d9f4fd0cd3e25e3219cbded0f17fbd2d69fe8a722bf5ec69a"
+
+[update]
+[update.modrinth]
+mod-id = "4I1XuqiY"
+version = "lcVTU0jz"

@@ -1,0 +1,15 @@
+{
+	musicDelayLength2: "SONGPACK_DEFAULT",
+	musicSwitchSpeed2: "SONGPACK_DEFAULT",
+	debugModeEnabled: false,
+	loadedUserSongpack: "HHC OST",
+	blacklistedDimensions: [],
+	savedHomePositions: {
+		saved: {
+			field_1352: 106.75179738729115,
+			field_1351: 49.68256192876378,
+			field_1350: 81.04495126796424
+		}
+	},
+	hasForcedInitialVolume: true
+}

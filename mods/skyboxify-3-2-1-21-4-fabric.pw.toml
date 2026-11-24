@@ -1,0 +1,13 @@
+name = "skyboxify-3.2+1.21.4-fabric"
+filename = "skyboxify-3.2+1.21.4-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DWuwk8aA/versions/LelG4BLL/skyboxify-3.2%2B1.21.4-fabric.jar"
+hash-format = "sha512"
+hash = "a057be825ddec63e0751df4f159bdbd9323a411347791d3627dfa35130d86cfec6ec642f1fbb1c702f43478ba90c20c8608a2af90dfbca2e3c95e75c9c441824"
+
+[update]
+[update.modrinth]
+mod-id = "DWuwk8aA"
+version = "LelG4BLL"

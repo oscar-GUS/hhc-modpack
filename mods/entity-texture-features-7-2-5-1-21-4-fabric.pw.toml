@@ -1,0 +1,13 @@
+name = "entity_texture_features-7.2.5-1.21.4-fabric"
+filename = "entity_texture_features-7.2.5-1.21.4-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/gP4tlKGK/entity_texture_features-7.2.5-1.21.4-fabric.jar"
+hash-format = "sha512"
+hash = "bc164a0388085609315c6d4ab7c5bebec7c8b763b3dcd6d2f7a3468a7b2b11c9cad35437786d06a18f846fa70a67bfcb2e6ec207d2934ba73284424063891225"
+
+[update]
+[update.modrinth]
+mod-id = "BVzZfTc1"
+version = "gP4tlKGK"
