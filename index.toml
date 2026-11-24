@@ -380,8 +380,8 @@ file = "mods/hhchud-0.3.0.jar"
 hash = "502fefbba0b15e9b2d21361cd330382e3409cec5ad834f29703723393af0796b"
 
 [[files]]
-file = "mods/hhcteclas-1.18.3.jar"
-hash = "65fe734ec2a2d8a5729af99fabfb3bb097c710783f81e0752223117720c9efb3"
+file = "mods/hhcteclas-1.18.4.jar"
+hash = "72cf639633a04a0a22fe8877422c948a24120b19b0e6722bda15409d69aa3ad4"
 
 [[files]]
 file = "mods/iris-fabric-1-8-8-mc1-21-4.pw.toml"
