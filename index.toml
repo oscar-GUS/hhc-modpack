@@ -376,8 +376,8 @@ hash = "b846b910277f0f4a74c2668e1bb723239ea6b857e99241940c31c42eeb212d2c"
 metafile = true
 
 [[files]]
-file = "mods/hhchud-0.3.0.jar"
-hash = "502fefbba0b15e9b2d21361cd330382e3409cec5ad834f29703723393af0796b"
+file = "mods/hhchud-0.3.1.jar"
+hash = "6db7c2c350db03b307d95bb624c801ea4fdb7bea8278fa607a58009b762cb20d"
 
 [[files]]
 file = "mods/hhcteclas-1.18.4.jar"

@@ -1,12 +1,12 @@
 name = "HHC"
 author = "HHC"
-version = "3"
+version = "4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c1089021278377d74317ca505890c133cc4fa1828fbbe39d21be59d94910304b"
+hash = "41b49db724471ecb1bbe89eb6ef0b3ba9ea8672d6b8dc8d9746a268cc0238d87"
 
 [versions]
 minecraft = "1.21.4"
