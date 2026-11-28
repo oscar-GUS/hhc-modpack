@@ -396,12 +396,13 @@ hash = "b846b910277f0f4a74c2668e1bb723239ea6b857e99241940c31c42eeb212d2c"
 metafile = true
 
 [[files]]
-file = "mods/hhchud-0.3.1.jar"
-hash = "6db7c2c350db03b307d95bb624c801ea4fdb7bea8278fa607a58009b762cb20d"
+file = "mods/hhchud-0-3-1.pw.toml"
+hash = "057566672cb750b28ffa294482c7e52f05047cad4d103dd6c6397df153b7ceb5"
+metafile = true
 
 [[files]]
-file = "mods/hhcteclas-1.22.1.jar"
-hash = "56fbee84966cc073b40b109234d5dae9f2dc1252582d88b354478f089cf3220a"
+file = "mods/hhcteclas-1.23.0.jar"
+hash = "2a3a0c3ff724954bf6bbe328508a0d32a236e7fdb01e0cda4c982a5356482b8e"
 
 [[files]]
 file = "mods/immediatelyfast-fabric-1-8-7-1-21-4.pw.toml"

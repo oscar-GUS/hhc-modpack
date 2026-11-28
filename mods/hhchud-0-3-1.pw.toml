@@ -1,0 +1,13 @@
+name = "hhchud-0.3.1"
+filename = "hhchud-0.3.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Apph7vab/versions/qoiEMIWd/hhchud-0.3.1.jar"
+hash-format = "sha512"
+hash = "a47c1797c393c8c6eae24578f81df06f65d14e905abbbcd9c3dc05a3e75fea453e79bb5bb57eb0f2f0bcf099337fefd625cf3ed48cd88866f7a04d730b353342"
+
+[update]
+[update.modrinth]
+mod-id = "Apph7vab"
+version = "qoiEMIWd"
