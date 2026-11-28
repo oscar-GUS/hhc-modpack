@@ -36,8 +36,13 @@ hash = "53c7fe12a405b2a39a9605c5660e749fc154efca3f89bc3975a1b3465bd3ff23"
 preserve = true
 
 [[files]]
+file = "config/entityculling.json"
+hash = "4a6d510b7e0157027b1cf2022184567fd5387aa09d08db108cb0369ba371ddbe"
+preserve = true
+
+[[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "8f0286c624b20a68c03a989c0eb7a667febfa76ee94ef259ee5475d149dbd350"
+hash = "dc995263aa044aa377191f3261be818bf7087f9f6c86e8df57e81776c735b56c"
 preserve = true
 
 [[files]]
@@ -231,6 +236,11 @@ hash = "40dbe5b348f89b8ded62bcdfe32807ffc3e78fa8e0f81607a739580019fe5450"
 preserve = true
 
 [[files]]
+file = "config/immediatelyfast.json"
+hash = "a6c9d147a51c9e432c5c74c00285cfc5ba8b6fa4a0c6686051a7168b158d0d7a"
+preserve = true
+
+[[files]]
 file = "config/iris-excluded.json"
 hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 preserve = true
@@ -258,11 +268,6 @@ preserve = true
 [[files]]
 file = "config/lambdynlights.toml"
 hash = "c5ede750aec1385ef7260c8f075252594a99ff2793c550397e838dafedc7cae4"
-preserve = true
-
-[[files]]
-file = "config/litematica.json"
-hash = "c77286dabb5dabc50013f8cbad6aeb5267f423399ea5a25e03829de6b0043e02"
 preserve = true
 
 [[files]]
@@ -316,6 +321,16 @@ hash = "b20a4b4efdc2662da1477e0679ddcae2ffd537426d3c2c6620b12bb5cc05f860"
 preserve = true
 
 [[files]]
+file = "config/transition.json"
+hash = "60420a41571a4658b91babfa2b47d6fefb7c1766eeea969f51ff98ab34c2431c"
+preserve = true
+
+[[files]]
+file = "config/trender.json"
+hash = "0a282f3623f7f9443a1d10b5768865f69e58b74e000dcfb4f40399626b7a6124"
+preserve = true
+
+[[files]]
 file = "config/yacl.json5"
 hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
 preserve = true
@@ -356,6 +371,11 @@ hash = "55ab7b4b88529ef0fc5139e2c64c495c7362000a42fa951eabb23df52a6fa657"
 metafile = true
 
 [[files]]
+file = "mods/entityculling-fabric-1-12-2-mc1-21-4.pw.toml"
+hash = "1171665cb16fc11ce9dc597daf727596a38eddc1e521f4ec2b0bbeaff0a33e6e"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api-0-119-4-1-21-4.pw.toml"
 hash = "10336e84d62109fd7257d09d47efd40136d6a74a3b099311399d12b404a01980"
 metafile = true
@@ -380,8 +400,13 @@ file = "mods/hhchud-0.3.1.jar"
 hash = "6db7c2c350db03b307d95bb624c801ea4fdb7bea8278fa607a58009b762cb20d"
 
 [[files]]
-file = "mods/hhcteclas-1.18.4.jar"
-hash = "72cf639633a04a0a22fe8877422c948a24120b19b0e6722bda15409d69aa3ad4"
+file = "mods/hhcteclas-1.22.1.jar"
+hash = "56fbee84966cc073b40b109234d5dae9f2dc1252582d88b354478f089cf3220a"
+
+[[files]]
+file = "mods/immediatelyfast-fabric-1-8-7-1-21-4.pw.toml"
+hash = "c89723de4f14e6483119427327981ad787e83a273846ef61a83cb09836dd9979"
+metafile = true
 
 [[files]]
 file = "mods/iris-fabric-1-8-8-mc1-21-4.pw.toml"
