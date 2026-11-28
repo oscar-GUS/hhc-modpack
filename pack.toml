@@ -1,6 +1,6 @@
 name = "HHC"
 author = "HHC"
-version = "5"
+version = "6"
 pack-format = "packwiz:1.1.0"
 
 [index]
